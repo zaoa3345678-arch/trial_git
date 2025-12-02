@@ -18,3 +18,5 @@
 - git log --oneline
 - git reset --soft HEAD~1 # trace 1 step based on HEAD
 - git reset --hard version_number # back to specific version_number and delete all others version modification
+- git restore --stage .
+- git restore .
